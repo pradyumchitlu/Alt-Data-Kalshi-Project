@@ -1,1 +1,3 @@
-# Alt-Data-Kalshi-Project
+Billboard Hot 100
+Weather Line
+Netflix Show
