@@ -1,0 +1,212 @@
+{
+  "search_term": "Netflix",
+  "geo": "US",
+  "category": "Arts & Entertainment",
+  "category_id": 3,
+  "timeframe": "today 12-m",
+  "mode": "queries",
+  "top": [
+    {
+      "query": "netflix movies",
+      "value": 100
+    },
+    {
+      "query": "movies on netflix",
+      "value": 56
+    },
+    {
+      "query": "netflix series",
+      "value": 36
+    },
+    {
+      "query": "netflix shows",
+      "value": 30
+    },
+    {
+      "query": "new on netflix",
+      "value": 19
+    },
+    {
+      "query": "best netflix movies",
+      "value": 19
+    },
+    {
+      "query": "shows on netflix",
+      "value": 16
+    },
+    {
+      "query": "you netflix",
+      "value": 14
+    },
+    {
+      "query": "new netflix movies",
+      "value": 14
+    },
+    {
+      "query": "best movies on netflix",
+      "value": 13
+    },
+    {
+      "query": "adolescence netflix",
+      "value": 9
+    },
+    {
+      "query": "netflix movies to watch",
+      "value": 9
+    },
+    {
+      "query": "new movies on netflix",
+      "value": 8
+    },
+    {
+      "query": "netflix movies 2025",
+      "value": 8
+    },
+    {
+      "query": "good movies on netflix",
+      "value": 7
+    },
+    {
+      "query": "movies to watch on netflix",
+      "value": 7
+    },
+    {
+      "query": "sirens netflix",
+      "value": 6
+    },
+    {
+      "query": "netflix tv shows",
+      "value": 6
+    },
+    {
+      "query": "max",
+      "value": 6
+    },
+    {
+      "query": "netflix documentaries",
+      "value": 6
+    },
+    {
+      "query": "netflix login",
+      "value": 6
+    },
+    {
+      "query": "netflix house",
+      "value": 5
+    },
+    {
+      "query": "four seasons netflix",
+      "value": 5
+    },
+    {
+      "query": "prime video",
+      "value": 5
+    },
+    {
+      "query": "wayward netflix",
+      "value": 3
+    }
+  ],
+  "rising": [
+    {
+      "query": "adolescence netflix",
+      "value": 82950
+    },
+    {
+      "query": "perfect neighbor netflix",
+      "value": 18650
+    },
+    {
+      "query": "the perfect neighbor netflix",
+      "value": 15150
+    },
+    {
+      "query": "sirens netflix",
+      "value": 11050
+    },
+    {
+      "query": "four seasons netflix",
+      "value": 10700
+    },
+    {
+      "query": "netflix movies 2025",
+      "value": 7750
+    },
+    {
+      "query": "wayward netflix",
+      "value": 7550
+    },
+    {
+      "query": "netflix series 2025",
+      "value": 7000
+    },
+    {
+      "query": "netflix documentaries 2025",
+      "value": 6300
+    },
+    {
+      "query": "untamed netflix",
+      "value": 4450
+    },
+    {
+      "query": "ed gein netflix",
+      "value": 4050
+    },
+    {
+      "query": "the asset netflix",
+      "value": 3000
+    },
+    {
+      "query": "a house of dynamite",
+      "value": 2050
+    },
+    {
+      "query": "true haunting netflix",
+      "value": 1700
+    },
+    {
+      "query": "haunted hotel netflix",
+      "value": 1300
+    },
+    {
+      "query": "netflix christmas movies 2025",
+      "value": 1200
+    },
+    {
+      "query": "the asset netflix 2025",
+      "value": 1100
+    },
+    {
+      "query": "frankenstein netflix release date",
+      "value": 900
+    },
+    {
+      "query": "netflix frankenstein",
+      "value": 850
+    },
+    {
+      "query": "dynamite netflix",
+      "value": 750
+    },
+    {
+      "query": "when does frankenstein come out on netflix",
+      "value": 700
+    },
+    {
+      "query": "juan gabriel netflix",
+      "value": 650
+    },
+    {
+      "query": "netflix house philadelphia",
+      "value": 600
+    },
+    {
+      "query": "death by lightning netflix",
+      "value": 600
+    },
+    {
+      "query": "black rabbit netflix",
+      "value": 550
+    }
+  ]
+}
