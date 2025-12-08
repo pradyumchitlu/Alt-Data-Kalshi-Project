@@ -6,7 +6,8 @@ from pathlib import Path
 from typing import List, Dict, Literal
 
 from pytrends.request import TrendReq
-from categories import category_to_id  # you provide this mapping
+from .categories import category_to_id
+
 
 # Directory where JSON outputs will be stored
 DATA_DIR = Path("data")
