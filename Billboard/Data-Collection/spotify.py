@@ -80,9 +80,9 @@ class SpotifyCollector:
                         if len(links) >= 2:
                             artist_name = links[0].get_text(strip=True)
                             song_name = links[1].get_text(strip=True)
-                        else:
-                            artist_name = "Unknown"
-                            song_name = artist_title
+                    else:
+                        artist_name = "Unknown"
+                        song_name = artist_title
                     
                     # Extract streams from the streams column (usually column 5 or 6)
                     # Find the column with the largest number - that's likely streams
@@ -92,8 +92,8 @@ class SpotifyCollector:
                         num = self.parse_number(text)
                         # Streams are typically in millions/billions
                         if num > 100000:  # Filter out small numbers like weeks/position
-                            if num > streams:
-                                streams = num
+                        if num > streams:
+                            streams = num
                     
                     # Generate a simple song_id
                     song_id = f"{artist_name}_{song_name}".replace(' ', '_').lower()[:100]

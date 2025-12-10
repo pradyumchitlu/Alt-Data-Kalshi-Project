@@ -94,9 +94,9 @@ class YouTubeCollector:
                         if len(links) >= 2:
                             artist_name = links[0].get_text(strip=True)
                             song_name = links[1].get_text(strip=True)
-                        else:
-                            artist_name = "Unknown"
-                            song_name = artist_title
+                    else:
+                        artist_name = "Unknown"
+                        song_name = artist_title
                     
                     # Extract video ID if available (from link in column 2)
                     video_id = ""
