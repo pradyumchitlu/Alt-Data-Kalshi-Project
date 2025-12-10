@@ -2,11 +2,12 @@
 import os
 import requests
 
-# Default to live elections endpoint; override via env if needed.
 BASE_URL = os.getenv(
     "KALSHI_BASE_URL",
-    "https://api.elections.kalshi.com/trade-api/v2"
+    "https://demo-api.kalshi.co/trade-api/v2"
 )
+
+# also https://api.elections.kalshi.com/trade-api/v2
 
 def get_event_markets(event_ticker: str):
     """Return all open markets for a Kalshi event."""
